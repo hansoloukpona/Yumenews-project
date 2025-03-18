@@ -1,0 +1,82 @@
+body {
+padding-top: 10px;
+font-family: "Comic Sans MS","Courier";
+
+}
+body[background="yumebg.jpeg"]
+{
+	background: url("yumebg.jpeg") fixed no-repeat ;
+	background-size: 100%;
+}
+
+
+p
+{
+	color: #cbad72;
+	font-size: 105%;
+	word-wrap: break-word;
+}
+a:visited, a
+{
+	color: #4AC130;
+}
+
+#eyes
+{
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	width: 50px;
+}
+#pagename:first-letter
+{
+	color: #4AC130;
+}
+#pagename
+{
+	text-align: center;
+	font-size: 300%;
+	font-family: "Comic Sans MS";
+}
+.yumemenu
+{
+	text-align: left;
+	font-size: 150%;
+}
+#inscrire
+{
+	
+}
+#yumesearch
+{
+
+}
+.yumecontenu
+{
+
+}
+#sign
+{
+	position: absolute;
+	text-align: right;
+	right: 1%;
+	top: 10%;
+}
+#recherche
+{
+	position: relative;
+	width: 100%;
+}
+#commentaire
+{
+	width: 95%;
+}
+
+#blog
+{
+	text-align: center;
+}
+#historique
+{
+
+}
